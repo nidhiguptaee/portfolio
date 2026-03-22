@@ -52,10 +52,11 @@ function highlightActiveNav() {
 
 // ── Typed text animation ─────────────────────────────────────
 const phrases = [
-  'Hardware Engineer',
+  'FPGA Engineer',
+  'RTL Designer',
   'AI/ML Enthusiast',
-  'Python Developer',
-  'FPGA Designer',
+  'Python Scripter',
+  'Scrum Master (CSM)',
 ];
 
 let phraseIndex  = 0;
